@@ -15,7 +15,7 @@ function App(){
 
     setaddTask(newTask => {
       return
-        [...addTask,[setTask]]
+        // [...addTask,[setTask]]
     })
   }
 
