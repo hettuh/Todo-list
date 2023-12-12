@@ -8,7 +8,7 @@ import './App.css';
 function App(){
   
   const [task, setTask] = useState("")
-  // const [addTask, setaddTask] = useState([])
+  const [addTask, setaddTask] = useState([])
 
   function addItems(e){
     e.preventDefault()
